@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...pankajkumar112111@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![counter](https://[YourEndpoint].m.pipedream.net)
+Connect me here at https://www.linkedin.com/in/pankaj-kumar-3439571b5
 -->
 Know more about me:-
 
@@ -22,5 +25,7 @@ Know more about me:-
 
 📫 Please email via pankajkumar112111@gmail.com to reach me.
 
-<!--Connect me here at https://www.linkedin.com/in/pankaj-kumar-3439571b5
--->
+![Github stats](https://github-readme-stats.vercel.app/api?username=pankaz20)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=panka20&repo=Algo_Ds_Notes)
+
