@@ -1,8 +1,5 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Pankaj!]:raised_hand_with_fingers_splayed::raised_hand_with_fingers_splayed:
 
-<a href="mailto:pankajkumar112111.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
 <!--
 **pankaz20/pankaz20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,8 +31,7 @@ Connect me here at https://www.linkedin.com/in/pankaj-kumar-3439571b5
 
 <a href="https://www.linkedin.com/in/pankaj-kumar-3439571b5/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>  
-
+</a> 
 
 
 
