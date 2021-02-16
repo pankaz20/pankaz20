@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 :arrow_down: Connect me here at :arrow_down:
 
 <a href="https://www.linkedin.com/in/pankaj-kumar-3439571b5/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="24px" src="https://image.flaticon.com/icons/png/512/174/174857.png"  />
 </a> 
  <a href="mailto:pankajkumar112111@gmail.com">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
@@ -39,6 +39,7 @@ Here are some ideas to get you started:
  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
  </a>
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankaz20g&" alt="pankaz20" /></p>
 <!--
 ![Pankaj's github stats](https://github-readme-stats.vercel.app/api?username=pankaz20&show_icons=true&hide_border=true)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pankaz20.pankaz20)
