@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![counter](https://[YourEndpoint].m.pipedream.net)
-Connect me here at https://www.linkedin.com/in/pankaj-kumar-3439571b5
+
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=panka20&repo=Algo_Ds_Notes)
 -->
 
@@ -32,14 +32,11 @@ Connect me here at https://www.linkedin.com/in/pankaj-kumar-3439571b5
 <a href="https://www.linkedin.com/in/pankaj-kumar-3439571b5/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a> 
-
- <a href="mailto:pankajkumar112111.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+ <a href="mailto:pankajkumar112111@gmail.com">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 <!--
-![Github stats](https://github-readme-stats.vercel.app/api?username=pankaz20)
+![Pankaj's github stats](https://github-readme-stats.vercel.app/api?username=pankaz20&show_icons=true&hide_border=true)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=pankaz20.pankaz20)
 -->
-	
-
-
