@@ -33,7 +33,9 @@ Connect me here at https://www.linkedin.com/in/pankaj-kumar-3439571b5
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a> 
 
-
+ <a href="mailto:pankajkumar112111.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 <!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=pankaz20)
