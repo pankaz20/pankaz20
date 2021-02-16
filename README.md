@@ -35,6 +35,9 @@ Here are some ideas to get you started:
  <a href="mailto:pankajkumar112111@gmail.com">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<a href="https://github.com/pankaz20">
+ <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
+ </a>
 
 <!--
 ![Pankaj's github stats](https://github-readme-stats.vercel.app/api?username=pankaz20&show_icons=true&hide_border=true)
