@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 Connect me here at https://www.linkedin.com/in/pankaj-kumar-3439571b5
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=panka20&repo=Algo_Ds_Notes)
 -->
+
  Know more about me:-:arrow_down::arrow_down::arrow_down:
 
 :computer:ECE Sphomore at National Institute of Technology,Agartala.
@@ -26,8 +27,9 @@ Connect me here at https://www.linkedin.com/in/pankaj-kumar-3439571b5
 
 💬 Please email via pankajkumar112111@gmail.com to reach me.
 
+<!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=pankaz20)
-
+-->
 	
 
 
