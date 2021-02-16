@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 Know more about me:-
 
+😄ECE Sphomore at National Institute of Technology,Agartala.
+
 🌱 I’m currently learning DSA;
 
 📫 Please email via pankajkumar112111@gmail.com to reach me.
 
+<!--Connect me here at https://www.linkedin.com/in/pankaj-kumar-3439571b5
+-->
