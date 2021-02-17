@@ -46,6 +46,13 @@ Here are some ideas to get you started:
 <p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pankaz20&" alt="pankaz20" /></p>
 
 
+
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=pankaz20&show_icons=true&locale=en" alt="pankaz20" /></p>
+
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaz20&layout=compact&langs_count=8" alt="pankaz20" />
+</p>
+<!--
 ![Pankaj's github stats](https://github-readme-stats.vercel.app/api?username=pankaz20&show_icons=true&hide_border=true)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=pankaz20.pankaz20)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=pankaz20.pankaz20
+-->
 
