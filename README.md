@@ -39,14 +39,13 @@ Here are some ideas to get you started:
 
 <br />
 
+
 💬 Please email via pankajkumar112111@gmail.com to reach me.
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankaz20&" alt="pankaz20" /></p>
+<p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pankaz20&" alt="pankaz20" /></p>
 
-
-
-
+<br />
 ![Pankaj's github stats](https://github-readme-stats.vercel.app/api?username=pankaz20&show_icons=true&hide_border=true)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pankaz20.pankaz20)
 
