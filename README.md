@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img align="left" width="24px" src="https://image.flaticon.com/icons/png/512/174/174857.png"  />
 </a> 
  <a href="mailto:pankajkumar112111@gmail.com">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="24px" src="https://www.flaticon.com/svg/vstatic/svg/732/732200.svg?token=exp=1613536050~hmac=6023dda9f702ce4d4fd61749b5fdfb46" />
 </a>
 <a href="https://github.com/pankaz20">
  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
