@@ -25,10 +25,9 @@ Here are some ideas to get you started:
 
 :memo: I’m currently learning DSA;
 
-:arrow_down: Connect me here at :arrow_down:
-
-
 💬 Please email via pankajkumar112111@gmail.com to reach me.
+
+:arrow_down: Connect me here at :arrow_down:
 
 <a href="https://www.linkedin.com/in/pankaj-kumar-3439571b5/">
   <img align="left" width="24px" src="https://image.flaticon.com/icons/png/512/174/174857.png"  />
