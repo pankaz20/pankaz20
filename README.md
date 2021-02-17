@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 
 :arrow_down: Connect me here at :arrow_down:
 
+
+💬 Please email via pankajkumar112111@gmail.com to reach me.
+
 <a href="https://www.linkedin.com/in/pankaj-kumar-3439571b5/">
   <img align="left" width="24px" src="https://image.flaticon.com/icons/png/512/174/174857.png"  />
 </a> 
@@ -38,7 +41,6 @@ Here are some ideas to get you started:
  </a>
 
 <br/>
-💬 Please email via pankajkumar112111@gmail.com to reach me.
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankaz20&" alt="pankaz20" /></p>
