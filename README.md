@@ -37,7 +37,7 @@ Here are some ideas to get you started:
  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
  </a>
 
-<p>
+<br/>
 💬 Please email via pankajkumar112111@gmail.com to reach me.
 
 
